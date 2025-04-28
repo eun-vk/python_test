@@ -27,5 +27,3 @@ print(type(PI))
 print(type(name))
 
 
-
-
