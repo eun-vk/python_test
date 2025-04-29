@@ -23,13 +23,18 @@
 # print(f"당신의 10년 뒤 나이는 {age1}살 입니다.")
 
 #비밀번호 설정하기 
-password = "mypassword"
-user_input = input("비밀번호를 입력하세요:")
+# password = "mypassword"
+# user_input = input("비밀번호를 입력하세요:")
 
-if user_input ==password:
-    print("다음")
+# if user_input ==password:
+#     print("다음")
 
-else:
-    print("비밀번호가 틀렸습니다. 다시 입력해주세요.")
+# else:
+#     print("비밀번호가 틀렸습니다. 다시 입력해주세요.")
 
-password()
+# password()
+
+a= input()
+n= int(a)
+print('%x'%n)
+
