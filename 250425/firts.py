@@ -26,4 +26,7 @@ PI= 3.14
 print(type(PI))
 print(type(name))
 
+j = 10
+j = 10.5222222222222
 
+print(f"j의 값은 {j:.sf}")
